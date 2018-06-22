@@ -19,5 +19,7 @@ We have a computer with Intel Core I3 (4 cores) 3.2Ghz, 8GB RAM and 2TB HD.
 **Right Now**
 
 at this time we have installed the InfraexDev fork in a google VPS with 4cores and 5gb ram just to test, however we had problems trying to add a Bitcoin fork coin.
+
 https://brexchange.br-com.net/
+
 https://github.com/Brexchange/Brexchange/issues/5
