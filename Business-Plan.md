@@ -12,6 +12,10 @@ Initially we would start in Brazil and other countries of Latin America, Brazil 
 
 we can have a very active presence in social networks and eventually we can boost publications on Facebook, Twitter, Vk, to reach the specific public, we must have an ANN on bitcointalk and search for listings on sites like Coinlib, Coingecko and others to get on the coinmarketcap.
 
+**Sources of Revenue**
+
+a fee of 0.25% on transactions, a withdrawal fee and a listing fee for new currencies.
+
 **Hardware**
 
 We have Dedicated Servers in Clouster with the following initial settings for the project
